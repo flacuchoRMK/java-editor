@@ -23,5 +23,3 @@
     <div id="root"></div>
   <script src="https://replit-cdn.com/replit-pill/replit-pill.global.js" data-referral-code="5o2uoktobvsz" data-repl-id="8e399c77-f767-4d29-81a2-cea98c48d93c"></script></body>
 </html>
-
-
